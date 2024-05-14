@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js 
 - 💞️ I’m looking to collaborate on everybody.
 - 📫 How to reach me saracdcota@gmail.com
-- 😄 Pronouns: ... Sara
+- 😄 Pronouns: ... She
 - ⚡ Fun fact: ...Like a Fenix or Fennac. 
 
 <!---
